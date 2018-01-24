@@ -2,7 +2,7 @@
 =============
 
 
-The Middle-earth Hyperledger 
+The Middle-Earth Hyperledger 
 http://github.com/Automic-Community/Blockchain-Automation
 
 <!-- List of attached files -->
