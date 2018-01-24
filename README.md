@@ -17,7 +17,7 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p>To demonstrate the integration with One Automation, we built blockchain application using the <a href="https://hyperledger.github.io/composer/">Hyperledger Composer</a> that gets executed on the <a href="https://hyperledger.org/">Hyperledger Fabric platform</a>.<br /><br />The application is supposed to introduce a block chain technologies to the (fictional) Middle-Earth Real Estate Properties Market.</p>
+<p>To demonstrate the integration with the CA Automic One Automation Platform, we built a blockchain sample application using the <a href="https://hyperledger.github.io/composer/">Hyperledger Composer</a> that gets executed on the <a href="https://hyperledger.org/">Hyperledger Fabric platform</a>.<br /><br />The application introduces blockchain technology to the (fictional) Middle-Earth Real Estate Properties Market.</p>
 
 Copyright and License
 ---
